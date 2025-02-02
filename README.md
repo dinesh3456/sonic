@@ -48,12 +48,12 @@ graph LR
     BH2 --> SL1
     MH2 --> SL1
 
-    classDef user fill:#90EE90,stroke:#000
-    classDef chain fill:#87CEEB,stroke:#000
-    classDef gateway fill:#D3D3D3,stroke:#000
-    classDef validator fill:#FFB6C1,stroke:#000
-    classDef client fill:#ADD8E6,stroke:#000
-    classDef block fill:#F5F5F5,stroke:#000
+    classDef user fill:#90EE90,stroke:#fff
+    classDef chain fill:#87CEEB,stroke:#fff
+    classDef gateway fill:#D3D3D3,stroke:#fff
+    classDef validator fill:#FFB6C1,stroke:#fff
+    classDef client fill:#ADD8E6,stroke:#fff
+    classDef block fill:#F5F5F5,stroke:#fff
 
     class UA,UB user
     class EL1,SL1 chain
