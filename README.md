@@ -63,7 +63,8 @@ graph LR
     class GE,GS gateway
     class V1,V2,V3,V4 validator
     class SC,EC client
-    class BH1,BH2,MH1,MH2 block```
+    class BH1,BH2,MH1,MH2 block
+```
 
 ## Overview
 
